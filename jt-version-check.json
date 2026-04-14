@@ -2,7 +2,7 @@
    "builds": [
       {
          "bundleIdentifier":"com.lamarzocco.jack-tool-aws",
-         "minVersion":"5.40",
+         "minVersion":"5.41",
          "canUpdateEverything":"true"
       },
       {
