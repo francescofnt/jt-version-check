@@ -4,6 +4,26 @@
          "bundleIdentifier":"com.lamarzocco.jack-tool-aws",
          "minVersion":"5.41",
          "canUpdateEverything":"true"
+      },
+      {
+         "bundleIdentifier":"com.lamarzocco.jack-tool-aws-man",
+         "minVersion":"5.41",
+         "canUpdateEverything":"true"
+      },
+      {
+         "bundleIdentifier":"com.lamarzocco.jack-tool-aws-light",
+         "minVersion":"5.41",
+         "canUpdateEverything":"false"
+      },
+      {
+         "bundleIdentifier":"com.lamarzocco.jack-tool-aws-omnys",
+         "minVersion":"5.41",
+         "canUpdateEverything":"false"
+      },
+      {
+         "bundleIdentifier":"com.lamarzocco.jack-tool-aws-baby",
+         "minVersion":"5.41",
+         "canUpdateEverything":"false"
       }
    ]
 }
