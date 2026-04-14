@@ -1,0 +1,9 @@
+{
+   "builds": [
+      {
+         "bundleIdentifier":"com.lamarzocco.jack-tool-aws",
+         "minVersion":"5.0",
+         "canUpdateEverything":"true"
+      }
+   ]
+}
